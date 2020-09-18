@@ -1,0 +1,50 @@
+.cart-bg {
+    background-image: url('../../assets/img/city-buildings-and-trees-during-golden-hour-2816168.jpg');
+    min-height: 80vh;
+}
+
+.cart-icon {
+    width: 45px;
+    height: 46px;
+}
+
+.shopping-cart-title {
+    font-family: "open-sans-bold";
+    color: #3b4754;
+    font-size: 22px;
+}
+
+.shopping-cart-sub-title {
+    font-family: "open-sans-bold";
+    color: #29323d;
+    font-size: 14px;
+}
+
+.license-plate-number {
+    font-family: "Open Sans";
+    font-weight: normal;
+    font-size: 14px;
+    color: #29323d;
+}
+
+.mobile-plate-number {
+    color: #929292;
+    font-family: "Open Sans";
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.cart-collapse-title {
+    font-family: "Open Sans";
+    font-weight: normal;
+    font-size: 13px;
+}
+
+.discount-code-input {
+    width: 100%;
+    max-width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.4);
+    border-radius: 4px;
+    padding: 4px 6px;
+    font-size: 12px;
+}

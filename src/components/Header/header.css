@@ -1,0 +1,94 @@
+.header .nav-link {
+    color: #3b4754 !important;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.header .nav-link:hover {
+    color: #000000 !important;
+}
+
+.header .fa-user-circle {
+    font-size: 20px;
+}
+
+.header .user-icon {
+    padding: 8px 0px 0px 0px;
+}
+
+.header .small-text {
+    font-size: 10px;
+}
+
+.header .small-text,
+.header .fa-user-circle:hover {
+    text-decoration: none;
+}
+
+.header .sign-in {
+    color: #FFF !important;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 6px 31px !important;
+    border-radius: 2px;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: "Open Sans";
+    background-color: #3b4754;
+}
+
+
+.header .nav {
+    padding: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-ul {
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar-custom {
+    z-index: 9999;
+    justify-content: space-between;
+    padding: 16px 16px 16px 76px;
+}
+
+@media (max-width: 1500px) {
+    .navbar-custom {
+        padding: 16px 16px 16px 55px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .navbar-custom {
+        padding: 16px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .res-width {
+        width: 100%;
+    }
+
+    .header .sign-in {
+        padding: 9px 31px !important;
+    }
+
+    .navbar-custom {
+        padding: 10px 16px;
+    }
+
+    .header .navbar-collapse {
+        position: absolute;
+        width: 100%;
+        top: 77px;
+        left: 0;
+        background: #fff;
+        /* border-bottom: 1px solid; */
+        box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, .4)
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "type": "success",
+    "data": [
+        {
+            "Number": "Any",
+            "State": "Any"
+        },
+        {
+            "State": "Orange Country",
+            "Number": "212 Numbers"
+        },
+        {
+            "State": "Los Angeles",
+            "Number": "310 Numbers"
+        },
+        {
+            "State": "San Diego",
+            "Number": "714 Numbers"
+        },
+        {
+            "State": "Riverside",
+            "Number": "332 Numbers"
+        },
+        {
+            "State": "Orange Country",
+            "Number": "212 Numbers"
+        },
+        {
+            "State": "Los Angeles",
+            "Number": "310 Numbers"
+        },
+        {
+            "State": "San Diego",
+            "Number": "714 Numbers"
+        },
+        {
+            "State": "Riverside",
+            "Number": "332 Numbers"
+        }
+    ]
+}

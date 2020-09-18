@@ -1,0 +1,19 @@
+.sign-up-input {
+    padding: 18px 12px;
+}
+
+.sign-up-btn {
+    margin-top: 20px;
+    width: 100%;
+    padding: 8px 12px;
+}
+
+@media (min-width: 596px) {
+    .sign-up-fields:first-child {
+        padding-right: 4px;
+    }
+
+    .sign-up-fields:nth-child(2) {
+        padding-left: 4px;
+    }
+}

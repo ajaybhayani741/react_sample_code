@@ -1,0 +1,39 @@
+.imgCenter {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.bulkNumberCheckHelpText {
+    text-align: center;
+    color: #232323;
+    font-weight: 400;
+    margin: 10px;
+    font-size: 16px;
+    font-family: "Open Sans";
+}
+
+.bulkNumberCheckInput {
+    border: 1px solid #000000;
+    border-radius: 12px;
+    width: 100%;
+    height: 230px !important;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.bulkNumberCheckInputBlock{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.bulkNumberCheckAction {
+    margin-top: 15px;
+    text-align: center;
+}

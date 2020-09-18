@@ -1,0 +1,134 @@
+.home-background-container {
+    min-height: 100vh;
+    width: 100%;
+    /* background: teal; */
+}
+
+.slide-1 {
+    background-image: url('../../assets/img/home_pic_1.png');
+}
+
+.slide-2 {
+    background-image: url('../../assets/img/home_pic_2.jpg');
+}
+
+.slide-3 {
+    background-image: url('../../assets/img/home_pic_3.png');
+}
+
+.slide-4 {
+    background-image: url('../../assets/img/home_pic_4.png');
+}
+
+.slide-5 {
+    background-image: url('../../assets/img/home_pic_5.png');
+}
+
+.multi-search {
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 2px 5px 13px #0000004d;
+}
+
+.home-carousel {
+    min-height: 100vh;
+    /* padding-bottom: 30px; */
+}
+
+.home-carousel img {
+    min-height: 100vh;
+    /* height: 100%;
+    max-height: 100%; */
+}
+
+.carousal-children {
+    min-height: 100vh;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding-bottom: 30px;
+}
+
+.circle {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    display: flex !important;
+    line-height: 1;
+    color: #ffffff;
+}
+
+.bg-grey {
+    background-color: #3b4754;
+}
+
+.hr {
+    border-left: 1px solid #3b4754;
+    height: 500px;
+}
+
+.premium-number-col-divider {
+    border-right: 3px solid #e4e4e4;
+}
+
+.premium-number-col-divider:last-child {
+    border-right: 0px;
+}
+
+.more-btn {
+    padding: 1px 20px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: "Open Sans";
+    color: #3b4754;
+}
+
+.customers-feedback-card {
+    min-width: 320px;
+    margin: 10px 20px;
+    background-color: rgba(118, 115, 122, 0.8);
+    border-radius: 6px;
+    display: inline-block;
+    padding: 26px 20px;
+    height: 175px;
+}
+
+.customer-message {
+    font-style: italic;
+    font-size: 15px;
+    line-height: 1.3;
+}
+
+.customer-round {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: #e4e4e4;
+}
+
+.customer-round i {
+    font-size: 16px;
+}
+
+.customer-name {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.customer-designation {
+    font-size: 14px;
+}
+
+.dropdown button {
+    width: 100%;
+}
+
+.alice-carousel__wrapper {
+    height: 100% !important;
+}
+
+/* .basic-search .form-group .input-group input[name="wordnumberpatttern"] {
+    border-radius: 7px;
+} */

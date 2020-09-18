@@ -1,0 +1,196 @@
+{
+    "type": "success",
+    "data": {
+        "col": [
+            {
+                "id": 1,
+                "State": "Orange County",
+                "Number": "702 Numbers",
+                "value": 702,
+                "name": "areaCode",
+                "link": "/orange-country",
+                "checked": false
+            },
+            {
+                "id": 2,
+                "State": "Los Angeles",
+                "Number": "408 Numbers",
+                "value": 408,
+                "name": "areaCode",
+                "link": "/los-angeles",
+                "checked": false
+            },
+            {
+                "id": 3,
+                "State": "Riverside",
+                "Number": "415 Numbers",
+                "value": 415,
+                "name": "areaCode",
+                "link": "/riverside",
+                "checked": false
+            },
+            {
+                "id": 4,
+                "State": "Bakersfield",
+                "Number": "510 Numbers",
+                "value": 510,
+                "name": "areaCode",
+                "link": "/bakersfield",
+                "checked": false
+            },
+            {
+                "id": 5,
+                "State": "San Francisco",
+                "Number": "650 Numbers",
+                "value": 650,
+                "name": "areaCode",
+                "link": "/san-francisco",
+                "checked": false
+            },
+            {
+                "id": 6,
+                "State": "San Diego",
+                "Number": "925 Numbers",
+                "value": 925,
+                "name": "areaCode",
+                "link": "/san-diego",
+                "checked": false
+            },
+            {
+                "id": 7,
+                "State": "Orange County",
+                "Number": "916 Numbers",
+                "value": 916,
+                "name": "areaCode",
+                "link": "/orange-country",
+                "checked": false
+            },
+            {
+                "id": 8,
+                "State": "Los Angeles",
+                "Number": "209 Numbers",
+                "value": 209,
+                "name": "areaCode",
+                "link": "/los-angeles",
+                "checked": false
+            },
+            {
+                "id": 9,
+                "State": "Riverside",
+                "Number": "213 Numbers",
+                "value": 213,
+                "name": "areaCode",
+                "link": "/riverside",
+                "checked": false
+            },
+            {
+                "id": 10,
+                "State": "Bakersfield",
+                "Number": "310 Numbers",
+                "value": 310,
+                "name": "areaCode",
+                "link": "/bakersfield",
+                "checked": false
+            },
+            {
+                "id": 11,
+                "State": "San Francisco",
+                "Number": "323 Numbers",
+                "value": 323,
+                "name": "areaCode",
+                "link": "/san-francisco",
+                "checked": false
+            },
+            {
+                "id": 12,
+                "State": "San Diego",
+                "Number": "562 Numbers",
+                "value": 562,
+                "name": "areaCode",
+                "link": "/san-diego",
+                "checked": false
+            },
+            {
+                "id": 13,
+                "State": "Orange County",
+                "Number": "714 Numbers",
+                "value": 714,
+                "name": "areaCode",
+                "link": "/orange-country",
+                "checked": false
+            },
+            {
+                "id": 14,
+                "State": "Los Angeles",
+                "Number": "818 Numbers",
+                "value": 818,
+                "name": "areaCode",
+                "link": "/los-angeles",
+                "checked": false
+            },
+            {
+                "id": 15,
+                "State": "Riverside",
+                "Number": "909 Numbers",
+                "value": 909,
+                "name": "areaCode",
+                "link": "/riverside",
+                "checked": false
+            },
+            {
+                "id": 16,
+                "State": "Bakersfield",
+                "Number": "949 Numbers",
+                "value": 949,
+                "name": "areaCode",
+                "link": "/bakersfield",
+                "checked": false
+            },
+            {
+                "id": 17,
+                "State": "San Francisco",
+                "Number": "626 Numbers",
+                "value": 626,
+                "name": "areaCode",
+                "link": "/san-francisco",
+                "checked": false
+            },
+            {
+                "id": 18,
+                "State": "San Diego",
+                "Number": "661 Numbers",
+                "value": 661,
+                "name": "areaCode",
+                "link": "/san-diego",
+                "checked": false
+            },
+            {
+                "id": 18,
+                "State": "San Diego",
+                "Number": "760 Numbers",
+                "value": 760,
+                "name": "areaCode",
+                "link": "/san-diego",
+                "checked": false
+            },
+            {
+                "id": 19,
+                "State": "San Diego",
+                "Number": "805 Numbers",
+                "value": 805,
+                "name": "areaCode",
+                "link": "/san-diego",
+                "checked": false
+            },
+            {
+                "id": 20,
+                "State": "San Diego",
+                "Number": "619 Numbers",
+                "value": 619,
+                "name": "areaCode",
+                "link": "/san-diego",
+                "checked": false
+            }
+        ]
+    }
+}

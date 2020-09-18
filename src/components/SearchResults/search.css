@@ -1,0 +1,233 @@
+.search-result {
+    background-image: url('../../assets/img/action-adventure-beach-dawn-390051.jpg');
+    padding: 25px;
+}
+
+.search-result .search-result-container {
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.search-result-title {
+    color: #3b4754;
+    font-size: 24pt;
+    font-family: "open-sans-bold";
+}
+
+.tile-icon-color {
+    color: #c0c0c0 !important;
+}
+
+.premium-card {
+    background-color: #434c68;
+    border-radius: 5px;
+    padding: 8px 0px 8px 0px;
+    position: relative;
+    margin-top: 8px;
+    margin-right: 8px;
+}
+
+.premium-price {
+    font-size: 12px;
+    color: #fff;
+    padding: 8px;
+    margin-right: 6px;
+}
+
+.state-name {
+    font-size: 8px;
+    text-transform: uppercase;
+    color: #ffffff;
+    position: absolute;
+    letter-spacing: 6px;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    font-weight: 500;
+}
+
+.heart-row {
+    position: relative;
+}
+
+.heart-in-card {
+    position: absolute;
+    left: 8px;
+    top: 50%;
+    transform: translate(0, -50%);
+    cursor: pointer;
+}
+
+.add-to-card-btn {
+    font-weight: bold;
+    padding: 4px 16px;
+}
+
+.premium-number-list-divider {
+    border-top: 3px solid #e4e4e4;
+    border-bottom: 3px solid #e4e4e4;
+    margin-bottom: 35px;
+}
+
+.premium-number-item-divider {
+    border-bottom: 3px solid #e4e4e4;
+}
+
+.premium-number-item-divider:last-child {
+    border-bottom: 0 solid #e4e4e4;
+}
+
+.premium-number-list-divider button {
+    margin: 8px 0;
+}
+
+.premium-number-list-divider .price {
+    padding-left: 30px;
+}
+
+.search-collapse {
+    margin: 0px 10px 0px 20px;
+}
+
+.search-collapse:first-child .search-collapse-title-container {
+    border-top: 2px solid #e4e4e4;
+}
+
+.search-collapse-title-container {
+    border-bottom: 2px solid #e4e4e4;
+    margin: 0 4px;
+}
+
+.search-collapse-title {
+    color: #000000;
+    font-family: "open-sans-bold";
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 2px 8px;
+}
+
+.search-collapse-body {
+    border-top: 2px solid #e4e4e4;
+    padding: 4px 8px;
+    margin-top: 4px;
+}
+
+.search-collapse-body-text {
+    color: #798da3;
+    font-family: "Open Sans";
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+
+.related-word-text {
+    color: #444444;
+    font-family: "Open Sans";
+    font-size: 10pt;
+}
+
+.related-word-bold {
+    color: #444444;
+    font-family: "open-sans-bold";
+    font-size: 10pt;
+}
+
+.search-list-row {
+    padding: 6px;
+}
+
+.search-list-row .fa-heart-o:hover {
+    color: #000;
+}
+
+.search-list-column {
+    border-top: 2px solid #e4e4e4;
+}
+
+.search-list-column .premium-card {
+    margin-top: 8px;
+    margin-right: 0px;
+}
+
+.search-list-container {
+    border-bottom: 2px solid #e4e4e4;
+    margin-bottom: 10px;
+}
+
+.search-list-plate-name {
+    font-size: 12pt;
+    font-family: "Open Sans";
+    color: #444444
+}
+
+.search-card-number {
+    font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.search-card-price {
+    font-size: 10px;
+    color: #fff;
+    padding: 4px 8px;
+    font-family: 'open-sans-bold';
+    margin-right: 6px;
+}
+
+.search-list-plate-number {
+    font-size: 10pt;
+    font-family: "Open Sans";
+    color: #798da3
+}
+
+.search-list-plate-available-text {
+    font-size: 10pt;
+    font-family: "Open Sans";
+    color: #798da3;
+    padding-top: 3px;
+}
+
+.available {
+    color: #72bb53;
+}
+
+.search-results-add-cart-button {
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: #444444;
+    font-family: 'open-sans-bold';
+}
+
+.search-results-add-cart-button:not(.disabled):hover {
+    background-color: #000000;
+}
+
+.search-result-container .multi-search {
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: none !important;
+}
+
+@media (max-width: 1200px) {
+    .search-card-number {
+        font-size: 12px;
+    }
+
+    .search-card-price {
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 769px) {
+    .search-result .search-result-container {
+        max-width: 100% !important;
+    }
+
+    .search-card-number {
+        font-size: 16px;
+    }
+
+    .search-list-column .premium-card {
+        margin-top: 8px;
+        margin-right: 0px;
+    }
+}

@@ -1,0 +1,84 @@
+.dialer-circle {
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    display: flex;
+    margin: 0px 2px 2px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.dialer-btn-round {
+    border-radius: 50%;
+}
+
+.dialer-box {
+    border: 1px solid #000000;
+    border-radius: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width: 310px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.dialer-input {
+    text-align: center;
+    border-bottom: 1px solid #d8d8d8;
+    border-radius: 0;
+    border-top: 0;
+    font-size: 26px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: #808080;
+    /* width: 80%; */
+    border-left: 0;
+    border-right: 0;
+    height: unset;
+}
+.dail-heart{
+    border: 2px solid #d8d8d8;
+    border-radius: 50%;
+    padding: 7px;
+    color: red;
+    text-align: center;
+    position: relative;
+}
+.dail-top-div{
+    align-items: flex-start;
+    display: flex;
+}
+.back-icon{
+    width: 23px;
+    padding-top: 8px;   
+}
+/* .back-icon:hover {
+    box-shadow: 1px 4px 8px 0px #e0e0e0;
+} */
+.dail-icon-width{
+    width: 10%;
+}
+.dial-number{
+    width: 33px;
+    height: 33px;
+    padding: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.round-red-bg {
+    background-color: #fb2025;
+    border-color: #fb2025;
+}
+.round-orange-bg {
+    background-color: #fd931e;
+    border-color: #fd931e;
+}
+.round-green-bg {
+    background-color: #7bc942;
+    border-color: #7bc942;
+}
+.dialer-row {
+    padding-top: 6px;
+    padding-bottom: 8px;
+}

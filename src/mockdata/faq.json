@@ -1,0 +1,47 @@
+{
+    "type": "success",
+    "data": [
+        {
+            "id": 1,
+            "title": "Is this where I can include some frequently asked questions?",
+            "description": [
+                {
+                    "id":"des_1",
+                    "data": "Yes, exactly. Here you can provide immediate answers to a few common and pressing questions."
+                },
+                {
+                    "id":"des_2",
+                    "data": "This will not only reduce your support tickets, but it will also reassure users – and make them more likely to click your CTA."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Is this where I can include some frequently asked questions?",
+            "description": [
+                {
+                    "id":"des_1",
+                    "data": "Yes, exactly. Here you can provide immediate answers to a few common and pressing questions."
+                },
+                {
+                    "id":"des_2",
+                    "data": "This will not only reduce your support tickets, but it will also reassure users – and make them more likely to click your CTA."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Is this where I can include some frequently asked questions?",
+            "description": [
+                {
+                    "id":"des_1",
+                    "data": "Yes, exactly. Here you can provide immediate answers to a few common and pressing questions."
+                },
+                {
+                    "id":"des_2",
+                    "data": "This will not only reduce your support tickets, but it will also reassure users – and make them more likely to click your CTA."
+                }
+            ]
+        }
+    ]
+}
